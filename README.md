@@ -15,8 +15,8 @@ My work is best accessed at [https://mhd-hanif.github.io/](https://mhd-hanif.git
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logos/ros_logo.svg" alt="ros" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/images/ros2.svg" alt="ros2" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/ms-iot/content/master/en-US/Images/ros_logo.png" alt="ros" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/gh-pages/rolling/_images/foxy-logo.png" alt="ros2" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
 </p>
