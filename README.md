@@ -16,7 +16,7 @@ My work is best accessed at [https://mhd-hanif.github.io/](https://mhd-hanif.git
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="50" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/gh-pages/rolling/_images/foxy-logo.png" alt="ros2" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" alt="ros2" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
 </p>
