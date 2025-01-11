@@ -22,7 +22,6 @@ Here are some of the tools and technologies I work with:
 ### 🔧 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-hanif&layout=compact&theme=radical)
 
----
 
 <!-- 
 ### Featured Projects
