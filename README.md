@@ -40,4 +40,4 @@ Feel free to explore my repositories, fork and contribute, or reach out for coll
 -->
 
 <!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/mhd-hanif/mhd-hanif/main/footer.svg" alt="Footer Wave" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/mhd-hanif/mhd-hanif/main/wave-footer.svg" alt="Footer Wave" style="width: 100%; height: auto;">
