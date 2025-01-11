@@ -39,5 +39,4 @@ Here are some highlights of my work:
 Feel free to explore my repositories, fork and contribute, or reach out for collaboration! 🚀
 -->
 
-<!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/mhd-hanif/mhd-hanif/main/wave-footer.svg" alt="Footer Wave" style="width: 100%; height: auto;">
+![Muhammad Hanif](./wave-footer.svg)
